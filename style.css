@@ -1,0 +1,88 @@
+table {
+    border: 1px solid black;
+    border-collapse: collapse;
+    outline: 1px solid black;
+    outline-offset: 2px;
+    
+}
+div {
+    padding: 100px;
+    background-color: #f1f0f0;
+
+}
+.cell-1 {
+    border-right-color:transparent;
+    border-left-color:transparent;
+    border-top-color:transparent;
+    text-align: center;
+    padding-bottom: 7px;
+    background-color: rgb(163, 221, 96);
+}
+
+td {
+   border: 1px solid black;
+   
+}
+.center {
+    text-align: center;
+    width: 80px;
+    padding: 5px;
+    background-color: rgb(236, 186, 110);
+}
+.cell {
+    width:170px;
+    border-right-color:transparent;
+    vertical-align: top;
+    padding-left: 10px;
+    
+}
+
+
+.cell-2 {
+    border-right-color:transparent;
+    vertical-align: top;
+    padding-left: 10px; 
+    width: 150px;
+}
+.cell-3 {
+    border-right-color:transparent;
+}
+.cell-4 {
+    border-bottom-color:transparent;
+    width: 200px;
+    height: 30px;
+    vertical-align: top;
+}
+.total-right {
+    vertical-align: bottom;
+    text-align: center;
+    width: 80px;
+    background-color: rgb(221, 88, 26);
+}
+.points {
+    border-bottom-color:transparent;
+    text-align: right;
+    padding-right: 15px;
+    vertical-align: top;
+}
+.procent {
+    text-align: right;
+    padding-right: 15px;
+}
+
+.col-2 {
+    background-color: rgb(192, 109, 109);
+}
+.col-3 {
+    background-color: plum;
+}
+.col-4, .col-5, .col-6, .col-7 {
+    background-color: rgb(68, 167, 167);
+}
+
+.bgt {
+    background-color: rgb(221, 88, 26);
+}
+.bgi {
+    background-color: rgb(221, 202, 26);
+}
